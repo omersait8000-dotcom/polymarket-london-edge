@@ -104,7 +104,7 @@
         "bucket_hit": 0.7,
         "rank_avg": null
       },
-      "days_measured": 10
+      "days_measured": 11
     }
   },
   "global": {
@@ -158,8 +158,8 @@
       "bucket_hit": 0.75,
       "rank_avg": null
     },
-    "days_measured": 20
+    "days_measured": 21
   },
-  "last_update": "2026-09-27T00:52:16.993730+03:00",
+  "last_update": "2026-09-27T01:02:22.741211+03:00",
   "hit_window_c": 1.0
 }
